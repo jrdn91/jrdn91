@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/jordanr"><img src="https://api.daily.dev/devcards/908389239af546c4994b9589b55bae81.png?r=llk" width="400" alt="Jordan's Dev Card"/></a>
+
 <!--
 **jrdn91/jrdn91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
